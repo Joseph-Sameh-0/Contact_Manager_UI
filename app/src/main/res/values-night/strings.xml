@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="save_contact">حفظ جهة الاتصال</string>
+    <string name="hint_notes">أدخل ملاحظات حول جهة الاتصال هذه…</string>
+    <string name="contact_photo">صورة جهة الاتصال</string>
+    <string name="notes">ملاحظات</string>
+</resources>

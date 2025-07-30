@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contact Manager UI</string>
+    <string name="save_contact">Save Contact</string>
+    <string name="hint_notes">Enter notes about this contact…</string>
+    <string name="contact_photo">Contact Photo</string>
+    <string name="notes">Notes</string>
+</resources>
